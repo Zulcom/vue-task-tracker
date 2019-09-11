@@ -1,0 +1,6 @@
+
+export const SN_USER = 'user'
+export const USER_START_SESSION = SN_USER + '/START_SESSION'
+export const USER_INFO_LOADED = SN_USER + '/INFO_LOADED'
+export const USER_END_SESSION = SN_USER + '/END_SESSION'
+export const USER_CHANGE_LAYOUT = SN_USER + '/USER_CHANGE_LAYOUT'

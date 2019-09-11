@@ -1,0 +1,54 @@
+{
+  "priority": {
+    "label": [
+      "trivial",
+      "minor",
+      "major",
+      "critical",
+      "blocker",
+      "top level"
+    ],
+    "color": [
+      "suva-gray",
+      "puerto-rico",
+      "bootstrap-blue",
+      "link",
+      "accent",
+      "burnt-sienna"
+    ]
+  },
+  "tasks": {
+    "reloadInterval": 5
+  },
+  "status": {
+    "label": [
+      "Новая",
+      "Исполняется",
+      "Завершена"
+    ],
+    "color": [
+      "error_outline",
+      "query_builder",
+      "check_circle_outline"
+    ]
+  },
+  "i18n": {
+    "currencySign": " руб.",
+    "currencySignPlacement": "",
+    "defaultLocale": "ru-RU"
+  },
+  "console": {
+    "showErrorOnProduction": true,
+    "verbosityLevel": "display-everything"
+  },
+  "localForage": {
+    "defaultDrivers": {
+      "user": "LOCALSTORAGE",
+      "tasks": "INDEXEDDB"
+    }
+  },
+  "users": {
+    "endpoint": "users"
+  }
+}
+

@@ -1,0 +1,12 @@
+[
+  {
+    "username": "username",
+    "password": "password",
+    "taskLayout": 0
+  },
+  {
+    "username": "user",
+    "password": "passwd",
+    "taskLayout": 1
+  }
+]

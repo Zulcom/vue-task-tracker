@@ -1,0 +1,8 @@
+.router-link-active {
+  background: map-get($colors, accent);
+  color: map-get($colors, white) !important;
+
+  svg path {
+    fill: map-get($colors, white) !important;
+  }
+}
